@@ -6,7 +6,9 @@
 //
 
 import SwiftUI
-
+import FirebaseCore
+import FirebaseFirestore
+    
 @main
 struct doorApp: App {
     var body: some Scene {
