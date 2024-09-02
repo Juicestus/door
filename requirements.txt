@@ -1,2 +1,2 @@
 firebase-admin
-pyvenv.cfg
+RPi.GPIO
